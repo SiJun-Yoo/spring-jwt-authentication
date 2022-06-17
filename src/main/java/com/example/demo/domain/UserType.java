@@ -1,2 +1,5 @@
-package com.example.demo.domain;public enum UserType {
+package com.example.demo.domain;
+
+public enum UserType {
+    NORMAL,BUSINESS
 }
